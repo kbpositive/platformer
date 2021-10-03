@@ -1,2 +1,2 @@
 # platformer
- 2D javascript platformer
+ 2D javascript platformer test
